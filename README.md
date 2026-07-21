@@ -12,11 +12,25 @@ Do products with more images and longer descriptions receive better customer rat
 
 Dataset: Brazilian E-Commerce Public Dataset by Olist
 
+## Analysis Process
+
+The project includes:
+
+- data loading and exploration,
+- data cleaning,
+- feature engineering,
+- exploratory data analysis,
+- correlation analysis,
+- visualization of results,
+- business insights.
+
 ## Tools & Technologies
 
-- Python (pandas, matplotlib)
-- SQL
-- Power BI
+- Python
+- pandas
+- numpy
+- matplotlib
+- seaborn
 - Jupyter Notebook
 
 ## Project Structure
