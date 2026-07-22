@@ -39,10 +39,6 @@ The project includes:
 
 ## Visualizations
 
-### Rating Distribution
-
-![Rating Distribution](images/nazwa_twojego_pliku.png)
-
 ### Images vs Customer Rating
 
 ![Images vs Rating](images/średnia_ocena_vs_ilość_zdjęć.png)
@@ -55,9 +51,9 @@ The project includes:
 
 ![Best Rating vs Worst Rating by Photos](images/Porównanie_liczby_zdjęć_Ocena_1_vs_Ocena_5.png)
 
-### Best Rating vs Worst Rating by Desciption Length
+### Best Rating vs Worst Rating by Description Length
 
-![Best Rating vs Worst Rating by Desciption_Length](images/porównanie_długości_opisów_Ocena_1_vs_Ocena_5.png)
+![Best Rating vs Worst Rating by Desciption_Length](images/porównanie_długości_opisów_Ocena_1_vs_ocena_5.png)
 
 ### Product Availability vs Sales Volume by Number of Images
 
