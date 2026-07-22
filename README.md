@@ -58,4 +58,4 @@ The project includes:
 ### Product Availability vs Sales Volume by Number of Images
 
 This visualization compares the number of available products with the total number of purchases depending on the amount of product images
-![Product Availability vs Sales Volume](images/dostępność_produktów_w_sklepie_vs_to_co_klienci_realnie_kupują.png)
+![Product Availability vs Sales Volume](images/dostęność_produktów_w_sklepie_vs_to_co_klienci_realnie_kupują.png)
