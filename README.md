@@ -45,7 +45,7 @@ The project includes:
 
 ### Images vs Customer Rating
 
-![Images vs Rating](images/średnia ocena vs ilość zdjęć.png)
+![Images vs Rating](images/średnia_ocena_vs_ilość_zdjęć.png)
 
 ### Description Length vs Customer Rating
 
