@@ -84,4 +84,4 @@ The analysis could be extended by including additional factors that may influenc
 
 The complete analysis can be found here:
 
-[Open Jupyter Notebook](notebooks/brazilian_ecommerce_analysis.ipynb)
+[Open Jupyter Notebook](ecommerce_analysis.ipynb)
