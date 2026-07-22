@@ -53,7 +53,7 @@ The project includes:
 
 ![Best Rating vs Worst Rating by Desciption_Length](images/porównanie_długości_opisów_Ocena_1_vs_ocena_5.png)
 
-### Product Availability vs Sales Volume by Number of Images
+### Product Count vs Sales Volume by Number of Images
 
 This visualization compares the number of available products with the total number of purchases depending on the amount of product images
 ![Product Availability vs Sales Volume](images/dostęność_produktów_w_sklepie_vs_to_co_klienci_realnie_kupują.png)
@@ -79,3 +79,9 @@ The analysis could be extended by including additional factors that may influenc
 - Compare product performance across different categories to identify category-specific patterns.
 - Apply statistical tests to verify whether observed differences between product groups are statistically significant.
 - Build predictive models to estimate customer ratings based on product characteristics and order-related factors.
+
+## Notebook
+
+The complete analysis can be found here:
+
+[Open Jupyter Notebook](notebooks/brazilian_ecommerce_analysis.ipynb)
